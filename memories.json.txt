@@ -1,0 +1,84 @@
+// a sample memories .json initially empty because it records responses and remembers past history only for certain period for better memory management save in json format.
+//leave it empty
+[
+  {
+    "timestamp": "2025-03-24T23:05:15.736134",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:05:15.736134",
+    "bot": "Hello! \ud83d\udc4b \n\nWhat can I do for you today? \ud83d\ude0a"
+  },
+  {
+    "timestamp": "2025-03-24T23:18:42.672102",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:18:42.672102",
+    "bot": "<think>\n\n</think>\n\nHello! How can I assist you today?"
+  },
+  {
+    "timestamp": "2025-03-24T23:21:09.248109",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:21:09.248109",
+    "bot": "Oops, I ran into an issue generating a response: module 'openai' has no attribute 'chat'"
+  },
+  {
+    "timestamp": "2025-03-24T23:21:39.924059",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:21:39.924059",
+    "bot": "Oops, I ran into an issue generating a response: module 'openai' has no attribute 'chat'"
+  },
+  {
+    "timestamp": "2025-03-24T23:23:13.265977",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:23:13.265977",
+    "bot": "<think>\n\n</think>\n\nHello! How can I assist you today? \ud83d\ude0a"
+  },
+  {
+    "timestamp": "2025-03-24T23:23:58.045101",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:23:58.045101",
+    "bot": "Hello! How can I assist you today?"
+  },
+  {
+    "timestamp": "2025-03-24T23:26:30.766459",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:26:30.766459",
+    "bot": "Oops, I ran into an issue generating a response: Error code: 404 - {'error': {'message': 'The model `llama-3.2-90-vision-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+  },
+  {
+    "timestamp": "2025-03-24T23:31:41.133338",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:31:41.133338",
+    "bot": "Hello, it's nice to meet you. Is there something I can help you with or would you like to chat?"
+  },
+  {
+    "timestamp": "2025-03-24T23:31:41.133338",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:31:41.133338",
+    "bot": "Oops, I ran into an issue generating a response: module 'openai' has no attribute 'chat'"
+  },
+  {
+    "timestamp": "2025-03-24T23:31:41.133338",
+    "user": "hello"
+  },
+  {
+    "timestamp": "2025-03-24T23:31:41.133338",
+    "bot": "Oops, I ran into an issue generating a response: module 'openai' has no attribute 'chat'"
+  }
+]
